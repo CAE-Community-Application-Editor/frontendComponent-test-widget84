@@ -49,7 +49,7 @@ var init = function() {
         alert("button1 clicked");
     }); 
  
-    $("#button_7button_3bc9b12e9").click(function(){
+    $("#button_3bc9b").click(function(){
         alert("button2 clicked");
     }); 
 
